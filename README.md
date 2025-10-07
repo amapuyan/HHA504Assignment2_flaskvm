@@ -1,2 +1,31 @@
-# HHA504Assignment2_flaskvm
+# Flask on Cloud VM (Assignment 2)
 Deploying a Flask App on a Cloud VM
+
+
+## Student Info
+- Name: Anthony Mapuyan
+- Cloud Provider: Google Cloud Platform
+
+## Video recording: 
+- Zoom/Loom: 
+
+## Steps
+### 1. VM Creation
+[screenshot]
+
+### 2. Networking (Port 5003 Open)
+[screenshot]
+
+### 3. OS Update + Python Install
+[commands + screenshot]
+
+### 4. Flask App Running
+[screenshot of terminal + browser]
+
+### 5. Public IP Access
+URL: http://XX.XX.XXX.XXX:5003  
+[screenshot]
+
+### 6. (Bonus) Domain Name
+Domain: http://mydomain.tech:5003  
+[screenshot]
