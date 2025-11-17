@@ -6,7 +6,7 @@ Deploying a Flask App on a Cloud VM
 - Name: Anthony Mapuyan
 - Cloud Provider: Google Cloud Platform
 
-## Video recording: 
+## Video recording: zoom deleted recording
 - Zoom/Loom: (https://stonybrook.zoom.us/rec/share/-DO8zeN-Lf2Ism5vCYE8jy6XepRc59GZuScM9D5OCYh_Ncznw3O_mpevrLOMXVKh.iMGB7eBayLFJw5P6) 
 Passcode: =5XkVS5C
 
